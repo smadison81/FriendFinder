@@ -1,3 +1,5 @@
+//Using a very cool library called Chosen to create and validate dropdowns
+
 var config = {
   ".chosen-select": {},
   ".chosen-select-deselect": {
