@@ -8,7 +8,7 @@ var friendsArr = [
   {
     name: "Supa Fly Jimmy Snucka",
     photo: "https://i.ytimg.com/vi/izLdRXpkLdI/maxresdefault.jpg",
-    scores: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    scores: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]git
   },
   {
     name: "The Fly",
